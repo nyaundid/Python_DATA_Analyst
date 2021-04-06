@@ -22,3 +22,5 @@ S32 - The Absenteeism Exercise - Introduction
 S33 - Solution of the Absenteeism Exercise 
 S34 - Data Visualization 
 
+
+OPEN MASTER FOR CONTENT
